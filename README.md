@@ -11,4 +11,6 @@ Displayed Skills:
 - GitHub 
 - VS Code
 
-Post Project Reflecation: 
+Post Project Reflection: 
+
+After completing this project, I learned a ton about how command line and git work within a project. Understanding when and the most efficient way to execute commits through the building phase is something that I struggle with and will need to improve on. Overall, the HTML code itself was straight forward and the pages were simple to build out. 
