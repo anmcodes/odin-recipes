@@ -5,7 +5,9 @@ body {
 #logo {
     color:whitesmoke;
     text-align: center;
-    letter-spacing: 3px;
+    letter-spacing: 5px;
+    font-family:'Koulen', cursive;
+    font-size:60px;
 }
 
 h1 {
