@@ -8,6 +8,10 @@ body {
     letter-spacing: 3px;
 }
 
+h1 {
+    text-align:center
+}
+
 ul {
     list-style: none;
     text-align:center;
