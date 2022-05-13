@@ -26,3 +26,8 @@ a {
 a:hover {
     color:#77AF9C;
 }
+
+img {
+    height:auto;
+    width:500px;
+}
